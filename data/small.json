@@ -1,0 +1,19 @@
+{
+  "capacity": 18,
+  "depot": "DEPOT",
+  "parcels": [
+    {"id":"P-101","weight":5,"value":42,"deadline":9,"priority":3,"destination":"NORTH"},
+    {"id":"P-102","weight":7,"value":58,"deadline":5,"priority":5,"destination":"EAST"},
+    {"id":"P-103","weight":4,"value":35,"deadline":7,"priority":4,"destination":"MARKET"},
+    {"id":"P-104","weight":9,"value":70,"deadline":12,"priority":2,"destination":"SOUTH"},
+    {"id":"P-105","weight":3,"value":28,"deadline":4,"priority":5,"destination":"WEST"},
+    {"id":"P-106","weight":6,"value":47,"deadline":8,"priority":3,"destination":"HILL"},
+    {"id":"P-107","weight":2,"value":18,"deadline":6,"priority":4,"destination":"RIVER"},
+    {"id":"P-108","weight":8,"value":61,"deadline":10,"priority":2,"destination":"AIRPORT"}
+  ],
+  "points": [
+    {"id":"DEPOT","x":0,"y":0},{"id":"NORTH","x":1,"y":5},{"id":"EAST","x":6,"y":2},
+    {"id":"MARKET","x":2,"y":1},{"id":"SOUTH","x":3,"y":-5},{"id":"WEST","x":-5,"y":1},
+    {"id":"HILL","x":-2,"y":5},{"id":"RIVER","x":-3,"y":-2},{"id":"AIRPORT","x":8,"y":-3}
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "priority_order": [
+    {
+      "id": "L011",
+      "deadline": 1,
+      "priority": 5
+    },
+    {
+      "id": "L004",
+      "deadline": 2,
+      "priority": 2
+    },
+    {
+      "id": "L001",
+      "deadline": 2,
+      "priority": 1
+    },
+    {
+      "id": "L007",
+      "deadline": 3,
+      "priority": 2
+    },
+    {
+      "id": "L006",
+      "deadline": 4,
+      "priority": 2
+    },
+    {
+      "id": "L025",
+      "deadline": 5,
+      "priority": 4
+    },
+    {
+      "id": "L039",
+      "deadline": 6,
+      "priority": 3
+    },
+    {
+      "id": "L057",
+      "deadline": 6,
+      "priority": 1
+    },
+    {
+      "id": "L027",
+      "deadline": 7,
+      "priority": 1
+    },
+    {
+      "id": "L037",
+      "deadline": 10,
+      "priority": 3
+    },
+    {
+      "id": "L038",
+      "deadline": 14,
+      "priority": 2
+    },
+    {
+      "id": "L044",
+      "deadline": 16,
+      "priority": 5
+    },
+    {
+      "id": "L008",
+      "deadline": 22,
+      "priority": 1
+    },
+    {
+      "id": "L046",
+      "deadline": 23,
+      "priority": 5
+    },
+    {
+      "id": "L029",
+      "deadline": 25,
+      "priority": 5
+    },
+    {
+      "id": "L051",
+      "deadline": 26,
+      "priority": 2
+    },
+    {
+      "id": "L030",
+      "deadline": 26,
+      "priority": 1
+    },
+    {
+      "id": "L056",
+      "deadline": 27,
+      "priority": 4
+    },
+    {
+      "id": "L055",
+      "deadline": 27,
+      "priority": 2
+    },
+    {
+      "id": "L036",
+      "deadline": 27,
+      "priority": 1
+    },
+    {
+      "id": "L022",
+      "deadline": 29,
+      "priority": 5
+    },
+    {
+      "id": "L033",
+      "deadline": 30,
+      "priority": 4
+    },
+    {
+      "id": "L028",
+      "deadline": 30,
+      "priority": 3
+    },
+    {
+      "id": "L047",
+      "deadline": 30,
+      "priority": 3
+    },
+    {
+      "id": "L012",
+      "deadline": 33,
+      "priority": 3
+    },
+    {
+      "id": "L034",
+      "deadline": 33,
+      "priority": 3
+    },
+    {
+      "id": "L015",
+      "deadline": 37,
+      "priority": 4
+    },
+    {
+      "id": "L041",
+      "deadline": 37,
+      "priority": 1
+    },
+    {
+      "id": "L002",
+      "deadline": 40,
+      "priority": 1
+    },
+    {
+      "id": "L060",
+      "deadline": 40,
+      "priority": 1
+    },
+    {
+      "id": "L035",
+      "deadline": 41,
+      "priority": 4
+    },
+    {
+      "id": "L031",
+      "deadline": 41,
+      "priority": 3
+    },
+    {
+      "id": "L042",
+      "deadline": 44,
+      "priority": 4
+    },
+    {
+      "id": "L059",
+      "deadline": 44,
+      "priority": 4
+    },
+    {
+      "id": "L019",
+      "deadline": 45,
+      "priority": 5
+    },
+    {
+      "id": "L045",
+      "deadline": 45,
+      "priority": 2
+    },
+    {
+      "id": "L052",
+      "deadline": 46,
+      "priority": 3
+    },
+    {
+      "id": "L040",
+      "deadline": 47,
+      "priority": 3
+    },
+    {
+      "id": "L043",
+      "deadline": 47,
+      "priority": 3
+    },
+    {
+      "id": "L032",
+      "deadline": 48,
+      "priority": 2
+    },
+    {
+      "id": "L009",
+      "deadline": 49,
+      "priority": 2
+    },
+    {
+      "id": "L018",
+      "deadline": 50,
+      "priority": 2
+    },
+    {
+      "id": "L049",
+      "deadline": 52,
+      "priority": 4
+    },
+    {
+      "id": "L014",
+      "deadline": 53,
+      "priority": 3
+    },
+    {
+      "id": "L013",
+      "deadline": 54,
+      "priority": 1
+    },
+    {
+      "id": "L058",
+      "deadline": 55,
+      "priority": 2
+    },
+    {
+      "id": "L048",
+      "deadline": 56,
+      "priority": 2
+    },
+    {
+      "id": "L016",
+      "deadline": 56,
+      "priority": 1
+    },
+    {
+      "id": "L005",
+      "deadline": 58,
+      "priority": 3
+    },
+    {
+      "id": "L023",
+      "deadline": 58,
+      "priority": 2
+    },
+    {
+      "id": "L021",
+      "deadline": 61,
+      "priority": 1
+    },
+    {
+      "id": "L017",
+      "deadline": 64,
+      "priority": 1
+    },
+    {
+      "id": "L054",
+      "deadline": 65,
+      "priority": 2
+    },
+    {
+      "id": "L050",
+      "deadline": 66,
+      "priority": 5
+    },
+    {
+      "id": "L024",
+      "deadline": 66,
+      "priority": 3
+    },
+    {
+      "id": "L020",
+      "deadline": 66,
+      "priority": 1
+    },
+    {
+      "id": "L003",
+      "deadline": 67,
+      "priority": 1
+    },
+    {
+      "id": "L053",
+      "deadline": 68,
+      "priority": 5
+    },
+    {
+      "id": "L010",
+      "deadline": 69,
+      "priority": 2
+    },
+    {
+      "id": "L026",
+      "deadline": 71,
+      "priority": 4
+    }
+  ],
+  "capacity": 100,
+  "selected_parcels": [
+    "L004",
+    "L001",
+    "L007",
+    "L025",
+    "L038",
+    "L030",
+    "L056",
+    "L022",
+    "L047",
+    "L012",
+    "L034",
+    "L042",
+    "L059",
+    "L052",
+    "L032",
+    "L009",
+    "L013",
+    "L048",
+    "L005",
+    "L023",
+    "L054",
+    "L050",
+    "L003",
+    "L010",
+    "L026"
+  ],
+  "selected_weight": 100,
+  "selected_value": 2068,
+  "route": [
+    "DEPOT",
+    "C47",
+    "C22",
+    "C01",
+    "C07",
+    "C04",
+    "C10",
+    "C54",
+    "C26",
+    "C30",
+    "C09",
+    "C59",
+    "C48",
+    "C03",
+    "C52",
+    "C32",
+    "C23",
+    "C34",
+    "C42",
+    "C50",
+    "C13",
+    "C05",
+    "C38",
+    "C25",
+    "C12",
+    "C56",
+    "DEPOT"
+  ],
+  "route_distance": 318.687,
+  "legs": [
+    {
+      "from": "DEPOT",
+      "to": "C47",
+      "distance": 12.042,
+      "path": [
+        "DEPOT",
+        "C47"
+      ]
+    },
+    {
+      "from": "C47",
+      "to": "C22",
+      "distance": 7.211,
+      "path": [
+        "C47",
+        "C22"
+      ]
+    },
+    {
+      "from": "C22",
+      "to": "C01",
+      "distance": 8.246,
+      "path": [
+        "C22",
+        "C01"
+      ]
+    },
+    {
+      "from": "C01",
+      "to": "C07",
+      "distance": 9.487,
+      "path": [
+        "C01",
+        "C07"
+      ]
+    },
+    {
+      "from": "C07",
+      "to": "C04",
+      "distance": 8.944,
+      "path": [
+        "C07",
+        "C04"
+      ]
+    },
+    {
+      "from": "C04",
+      "to": "C10",
+      "distance": 24.698,
+      "path": [
+        "C04",
+        "C10"
+      ]
+    },
+    {
+      "from": "C10",
+      "to": "C54",
+      "distance": 2.236,
+      "path": [
+        "C10",
+        "C54"
+      ]
+    },
+    {
+      "from": "C54",
+      "to": "C26",
+      "distance": 5.099,
+      "path": [
+        "C54",
+        "C26"
+      ]
+    },
+    {
+      "from": "C26",
+      "to": "C30",
+      "distance": 5.0,
+      "path": [
+        "C26",
+        "C30"
+      ]
+    },
+    {
+      "from": "C30",
+      "to": "C09",
+      "distance": 10.817,
+      "path": [
+        "C30",
+        "C09"
+      ]
+    },
+    {
+      "from": "C09",
+      "to": "C59",
+      "distance": 8.062,
+      "path": [
+        "C09",
+        "C59"
+      ]
+    },
+    {
+      "from": "C59",
+      "to": "C48",
+      "distance": 4.123,
+      "path": [
+        "C59",
+        "C48"
+      ]
+    },
+    {
+      "from": "C48",
+      "to": "C03",
+      "distance": 5.099,
+      "path": [
+        "C48",
+        "C03"
+      ]
+    },
+    {
+      "from": "C03",
+      "to": "C52",
+      "distance": 10.198,
+      "path": [
+        "C03",
+        "C52"
+      ]
+    },
+    {
+      "from": "C52",
+      "to": "C32",
+      "distance": 8.602,
+      "path": [
+        "C52",
+        "C32"
+      ]
+    },
+    {
+      "from": "C32",
+      "to": "C23",
+      "distance": 3.606,
+      "path": [
+        "C32",
+        "C23"
+      ]
+    },
+    {
+      "from": "C23",
+      "to": "C34",
+      "distance": 12.728,
+      "path": [
+        "C23",
+        "C34"
+      ]
+    },
+    {
+      "from": "C34",
+      "to": "C42",
+      "distance": 4.123,
+      "path": [
+        "C34",
+        "C42"
+      ]
+    },
+    {
+      "from": "C42",
+      "to": "C50",
+      "distance": 4.123,
+      "path": [
+        "C42",
+        "C50"
+      ]
+    },
+    {
+      "from": "C50",
+      "to": "C13",
+      "distance": 11.045,
+      "path": [
+        "C50",
+        "C13"
+      ]
+    },
+    {
+      "from": "C13",
+      "to": "C05",
+      "distance": 11.045,
+      "path": [
+        "C13",
+        "C05"
+      ]
+    },
+    {
+      "from": "C05",
+      "to": "C38",
+      "distance": 28.16,
+      "path": [
+        "C05",
+        "C38"
+      ]
+    },
+    {
+      "from": "C38",
+      "to": "C25",
+      "distance": 49.244,
+      "path": [
+        "C38",
+        "C25"
+      ]
+    },
+    {
+      "from": "C25",
+      "to": "C12",
+      "distance": 12.042,
+      "path": [
+        "C25",
+        "C12"
+      ]
+    },
+    {
+      "from": "C12",
+      "to": "C56",
+      "distance": 17.72,
+      "path": [
+        "C12",
+        "C56"
+      ]
+    },
+    {
+      "from": "C56",
+      "to": "DEPOT",
+      "distance": 34.986,
+      "path": [
+        "C56",
+        "DEPOT"
+      ]
+    }
+  ],
+  "dp_final_row": [
+    0,
+    90,
+    180,
+    255,
+    321,
+    368,
+    434,
+    479,
+    545,
+    589,
+    618,
+    646,
+    690,
+    719,
+    747,
+    791,
+    820,
+    833,
+    861,
+    905,
+    934,
+    941,
+    969,
+    1013,
+    1042,
+    1042,
+    1066,
+    1110,
+    1139,
+    1139,
+    1157,
+    1201,
+    1230,
+    1230,
+    1248,
+    1291,
+    1320,
+    1320,
+    1338,
+    1367,
+    1367,
+    1393,
+    1399,
+    1411,
+    1440,
+    1440,
+    1454,
+    1483,
+    1483,
+    1509,
+    1515,
+    1527,
+    1556,
+    1556,
+    1561,
+    1588,
+    1598,
+    1610,
+    1619,
+    1634,
+    1657,
+    1657,
+    1666,
+    1689,
+    1699,
+    1699,
+    1720,
+    1735,
+    1735,
+    1739,
+    1767,
+    1777,
+    1777,
+    1798,
+    1809,
+    1813,
+    1813,
+    1840,
+    1848,
+    1848,
+    1860,
+    1880,
+    1890,
+    1890,
+    1911,
+    1922,
+    1926,
+    1926,
+    1953,
+    1958,
+    1958,
+    1973,
+    1990,
+    2000,
+    2000,
+    2021,
+    2032,
+    2036,
+    2037,
+    2063,
+    2068
+  ]
+}

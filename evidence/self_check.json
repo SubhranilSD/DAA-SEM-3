@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "checks": [
+    "deadline ordering",
+    "optimal 0/1 knapsack",
+    "closed delivery tour",
+    "Dijkstra shortest path and reconstruction"
+  ],
+  "large_dataset": {
+    "parcels": 60,
+    "locations_including_depot": 61,
+    "selected_parcels": 25,
+    "selected_weight": 100,
+    "capacity": 100,
+    "selected_value": 2068,
+    "route_distance": 318.687
+  }
+}

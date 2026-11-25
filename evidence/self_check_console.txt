@@ -1,0 +1,139 @@
+{
+  "status": "passed",
+  "checks": [
+    "deadline ordering",
+    "optimal 0/1 knapsack",
+    "closed delivery tour",
+    "Dijkstra shortest path and reconstruction"
+  ]
+}
+{
+  "priority_order": [
+    {
+      "id": "P-105",
+      "deadline": 4,
+      "priority": 5
+    },
+    {
+      "id": "P-102",
+      "deadline": 5,
+      "priority": 5
+    },
+    {
+      "id": "P-107",
+      "deadline": 6,
+      "priority": 4
+    },
+    {
+      "id": "P-103",
+      "deadline": 7,
+      "priority": 4
+    },
+    {
+      "id": "P-106",
+      "deadline": 8,
+      "priority": 3
+    },
+    {
+      "id": "P-101",
+      "deadline": 9,
+      "priority": 3
+    },
+    {
+      "id": "P-108",
+      "deadline": 10,
+      "priority": 2
+    },
+    {
+      "id": "P-104",
+      "deadline": 12,
+      "priority": 2
+    }
+  ],
+  "capacity": 18,
+  "selected_parcels": [
+    "P-102",
+    "P-107",
+    "P-103",
+    "P-101"
+  ],
+  "selected_weight": 18,
+  "selected_value": 153,
+  "route": [
+    "DEPOT",
+    "MARKET",
+    "EAST",
+    "NORTH",
+    "RIVER",
+    "DEPOT"
+  ],
+  "route_distance": 23.858,
+  "legs": [
+    {
+      "from": "DEPOT",
+      "to": "MARKET",
+      "distance": 2.236,
+      "path": [
+        "DEPOT",
+        "MARKET"
+      ]
+    },
+    {
+      "from": "MARKET",
+      "to": "EAST",
+      "distance": 4.123,
+      "path": [
+        "MARKET",
+        "EAST"
+      ]
+    },
+    {
+      "from": "EAST",
+      "to": "NORTH",
+      "distance": 5.831,
+      "path": [
+        "EAST",
+        "NORTH"
+      ]
+    },
+    {
+      "from": "NORTH",
+      "to": "RIVER",
+      "distance": 8.062,
+      "path": [
+        "NORTH",
+        "RIVER"
+      ]
+    },
+    {
+      "from": "RIVER",
+      "to": "DEPOT",
+      "distance": 3.606,
+      "path": [
+        "RIVER",
+        "DEPOT"
+      ]
+    }
+  ],
+  "dp_final_row": [
+    0,
+    0,
+    18,
+    28,
+    35,
+    46,
+    53,
+    63,
+    70,
+    81,
+    88,
+    95,
+    105,
+    111,
+    123,
+    128,
+    139,
+    146,
+    153
+  ]
+}
